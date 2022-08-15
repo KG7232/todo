@@ -1,0 +1,152 @@
+.zero{
+    position: relative;
+    top: 100px;
+    left: 350px;
+    font-family: "Raleway", sans-serif;
+}
+
+
+
+.one{
+    position: relative;
+    top: 45px;
+    left: 450px;
+    font-family:'Raleway', sans-serif;
+    font-weight:lighter;
+    font-size: 30px;
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+    
+}
+.box1{
+    border: 1px tomato solid;
+    border-radius: 20px;
+    width: 150px;
+    height: 250px;
+    text-align: center;
+    color: tomato;
+    margin: 30px;
+    margin-top: 90px;
+    box-shadow:5px 5px 5px grey;
+}
+.box2{
+    border: 1px tomato solid;
+    border-radius: 20px;
+    width: 150px;
+    height: 250px;
+    text-align: center;
+    color: tomato;
+    margin: 30px;
+    margin-top: 90px;
+    box-shadow:5px 5px 5px grey;
+}
+.box3{
+    border: 1px tomato solid;
+    border-radius: 20px;
+    width: 150px;
+    height: 250px;
+    text-align: center;
+    color: tomato;
+    margin: 30px;
+    margin-top: 90px;
+    box-shadow:5px 5px 5px grey;
+
+}
+
+.hr{
+    width: 130px; 
+    position: relative;
+    left: 10px;
+    top: -6px;
+}
+.pen{
+    padding-right: 30px;
+    color: black;
+}
+
+.last{
+    text-align: center;
+}
+
+.add{
+    background-color: tomato;
+    border-radius: 50%;
+    color: white;
+    position: absolute;
+
+    top: 130px;
+    left: 800px;
+    
+}
+.addlist{
+    position: absolute;
+    top: 135px;
+    left: 840px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+
+
+
+
+.top{
+    text-align: center;
+}
+.hr1{
+    width: 150px;
+    position:absolute;
+    top: 30px;
+    left: 390px;
+
+}
+.hr2{
+    width: 150px;
+    position: absolute;
+    top: 30px;
+    left: 750px;
+
+}
+.material-symbols-outlined{
+    background-color: tomato;
+    border-radius: 50%;
+    color: white;
+    position: relative;
+    top: 55px;
+    left: 570px;
+}
+.back{
+    position: relative;
+    top: 25px;
+    left: 600px;
+    font-size: 25px;
+}
+.box5{
+    border: 1px tomato solid;
+    border-radius: 20px;
+    width: 300px;
+    height: 250px;
+    text-align: center;
+    color: tomato;
+    margin: 30px;
+    margin-top: 90px;
+    box-shadow:5px 5px 8px grey;
+    position: relative;
+    top: 10px;
+    left: 450px;
+}
+.hr3{
+    width: 240px; 
+    position: relative;
+    left: 30px;
+    top: 3px;
+}
+
+.addindex2{
+    position: absolute;
+    bottom: 80px;
+    right: 600px;
+}

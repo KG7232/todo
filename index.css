@@ -1,0 +1,103 @@
+.border{
+    border: 1px black solid;
+    width: 100%;
+    height: 550px;
+}
+
+
+.zero{
+    position: relative;
+    top: 100px;
+    left: 350px;
+    font-family: "Raleway", sans-serif;
+}
+
+
+
+.one{
+    position: relative;
+    top: 45px;
+    left: 450px;
+    font-family:'Raleway', sans-serif;
+    font-weight:lighter;
+    font-size: 30px;
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+    
+}
+.box1{
+    border: 1px tomato solid;
+    border-radius: 20px;
+    width: 150px;
+    height: 250px;
+    text-align: center;
+    color: tomato;
+    margin: 30px;
+    margin-top: 90px;
+    box-shadow:5px 5px 8px grey;
+}
+.box2{
+    border: 1px tomato solid;
+    border-radius: 20px;
+    width: 150px;
+    height: 250px;
+    text-align: center;
+    color: tomato;
+    margin: 30px;
+    margin-top: 90px;
+    box-shadow:5px 5px 8px grey;
+}
+.box3{
+    border: 1px tomato solid;
+    border-radius: 20px;
+    width: 150px;
+    height: 250px;
+    text-align: center;
+    color: tomato;
+    margin: 30px;
+    margin-top: 90px;
+    box-shadow:5px 5px 8px grey;
+
+}
+.paris{
+    color: tomato;
+}
+
+.hrr{ 
+    width: 120px;
+    position: relative;
+    top: -10px;
+    float: right;
+} 
+.pen{
+    padding-right: 30px;
+    color: black;
+}
+
+.last{
+    text-align: center;
+}
+
+/* .material-symbols-outlined{
+    background-color: tomato;
+    border-radius: 50%;
+    color:black; 
+    
+} */
+.addlist{
+    position: absolute;
+    top: 135px;
+    left: 840px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.add2{
+    position:absolute;
+    top: 80px;
+    left: 240px;
+}
+

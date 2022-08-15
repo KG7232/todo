@@ -1,0 +1,84 @@
+
+.top{
+    text-align: center;
+}
+.hr1{
+    width: 150px;
+    position:absolute;
+    top: 30px;
+    left: 390px;
+
+}
+.hr2{
+    width: 150px;
+    position: absolute;
+    top: 30px;
+    left: 750px;
+
+}
+.material-symbols-outlined-1{
+    background-color: tomato;
+    border-radius: 50%;
+    color: white;
+    position: relative;
+    top: 55px;
+    left: 570px;
+}
+.back{
+    position: relative;
+    top: 25px;
+    left: 600px;
+    font-size: 25px;
+}
+.box5{
+    border: 1px tomato solid;
+    border-radius: 20px;
+    width: 300px;
+    height: 250px;
+    text-align: center;
+    color: tomato;
+    margin: 30px;
+    margin-top: 90px;
+    box-shadow:5px 5px 8px grey;
+    position: relative;
+    top: 10px;
+    left: 450px;
+}
+.hr3{
+    width: 150px; 
+    float: right;
+    /* position: relative;
+    left: 30px;
+    top: 3px; */
+}
+
+
+.parent{
+  filter: blur(4px); 
+  z-index: -1; 
+}
+.parent2{
+    z-index: +1;
+
+}
+.box6{
+    background-color: white;
+    text-align: center;
+    color: tomato;
+    width: 300px;
+    height: 130px;
+    padding-top: 20px;
+    border: 2px tomato solid;
+    border-radius: 20px;
+    position: absolute;
+    top: 250px;
+    left: 490px;
+
+
+}
+.btnadd{
+    background-color: tomato;
+    border-radius: 10px;
+    border: 1px tomato solid;
+    color: white;
+}
